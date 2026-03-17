@@ -1,0 +1,5 @@
+{
+  "name": "photo-location-app",
+  "version": "1.0.0",
+  "description": "获取相册图片与监听位置的 PWA 应用"
+}
